@@ -7,13 +7,13 @@
 На тестирование затрачено: 0,09 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* Дефекты не выявлены.
+* [FAIL при вводе валидного значения 00000000-0000-0000-0000-000000000000](https://github.com/Volgogradec/JAVA_01_Task1_part2/issues/1).
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * Документация: "[Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)";
-* Установочный файл приложения: KeyValidator.class.
+* Установочный файл приложения: [KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class).
 
 В качестве тестовых данных использовались данные из "Руководство использования KeyValidator":
 * При вводе в терминале команды:
